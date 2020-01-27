@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1498671945 source:c:\users\mariano\documents\mega\analisis y diseño de algoritmos i\tp especial\algstrassen\main.cpp
+	<iostream>
+	"Matriz.h"
+	<time.h>
+	<stdlib.h>
+
+1498235798 source:c:\users\mariano\documents\mega\analisis y diseño de algoritmos i\tp especial\tdaareglo\array.cpp
+	"Array.h"
+	"assert.h"
+
+1498254108 c:\users\mariano\documents\mega\analisis y diseño de algoritmos i\tp especial\tdaareglo\array.h
+	<assert.h>
+
+1498600683 source:c:\users\mariano\documents\mega\analisis y diseño de algoritmos i\tp especial\algstrassen\matriz.cpp
+	"Matriz.h"
+	<assert.h>
+
+1498600562 c:\users\mariano\documents\mega\analisis y diseño de algoritmos i\tp especial\algstrassen\matriz.h
+
